@@ -17,6 +17,7 @@ public class DeptExample {
      * This field corresponds to the database table t_dept
      *
      * @mbggenerated Tue Nov 30 18:45:30 CST 2021
+     * This field corresponds to the database table t_dept
      */
     protected boolean distinct;
 
